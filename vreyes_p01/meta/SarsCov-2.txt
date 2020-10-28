@@ -1,0 +1,15 @@
+Estructura molecular del SARS-CoV-2
+
+Es un virus de 500-200 nm de RNA de cadena sencilla positiva. El genoma 
+viral es de aproximadamente 27-32 kb y está constituido por el marco de 
+lectura ORF1ab, que codifica proteínas tanto estructurales como no 
+estructurales. Las proteínas estructurales como la glicoproteína de 
+membrana (M), la proteína de la envoltura (E), la proteína de la 
+nucleocápside (N) y espículas glicosiladas (S) son importantes en la 
+entrada y replicación del virus en la célula huésped.
+
+La proteína S es una glicoproteína de membrana constituida por un 
+ectodominio, comprende una subunidad S1 (trímero) responsable de 
+la unión del receptor del virus y una subunidad S2 (tallo 
+trimérico), que facilita la fusión de la membrana celular del 
+virus.

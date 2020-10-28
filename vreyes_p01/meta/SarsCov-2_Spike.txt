@@ -1,0 +1,21 @@
+Proteína espiga (S) de SARS-CoV-2 
+
+La proteína espiga (S) de SARS-CoV es un miembro de las proteínas de fusión de membrana viral de clase I que contiene tres 
+segmentos: un ectodominio grande, una región transmembranal y una cola intracelular corta. El ectodominio consta 
+de una subunidad de unión al receptor S1 (trímero) y una subunidad de fusión de membrana S2 (tallo trimérico). 
+Se han identificado dos dominios principales en la subunidad S1, el dominio N-terminal (S1-NTD) y el dominio C-terminal 
+(S1-CTD). Uno o ambos de estos dominios S1 se unen potencialmente a receptores y funcionan como el dominio de unión al 
+receptor (RBD). Los S1-NTD son responsables de la unión a azúcares mientras que los S1-CTD son responsables de reconocer 
+los receptores de proteínas ACE2, APN y DPP4.
+
+Durante la infección, el SARS-CoV primero se une a la célula huésped a través de la interacción entre su S1-RBD y el
+receptor ACE2 de la membrana celular, lo que desencadena cambios conformacionales en la subunidad S2 que resultan en la fusión 
+de la membrana del huésped y la viral, permitiendo que los genomas virales entren en la célula objetivo. S2 trimérico postfusión 
+es un haz de seis hélices con péptidos de fusión expuestos. La transición de la conformación de prefusión a postfusión está regulada 
+por una variedad de factores.
+
+La unión del receptor y la fusión de la membrana son los pasos iniciales y críticos en el ciclo de infección por SARS-CoV; también 
+sirven como objetivos primarios para el desarrollo de tratamientos.
+La unión del SARS-CoV no interfiere con la actividad enzimática de ACE2, ni la actividad enzimática de ACE2 juega ningún papel 
+en la entrada del SARS-CoV.
+
